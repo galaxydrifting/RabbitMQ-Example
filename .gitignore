@@ -1,0 +1,30 @@
+# admin & main
+__pycache__
+venv/
+.vscode
+admin/.dbdata/
+main/.dbdata/
+
+
+# react-crud
+# dependencies
+react-crud/node_modules
+react-crud/.pnp
+react-crud/.pnp.js
+
+# testing
+react-crud/coverage
+
+# production
+react-crud/build
+
+# misc
+react-crud/.DS_Store
+react-crud/.env.local
+react-crud/.env.development.local
+react-crud/.env.test.local
+react-crud/.env.production.local
+
+react-crud/npm-debug.log*
+react-crud/yarn-debug.log*
+react-crud/yarn-error.log*

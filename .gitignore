@@ -1,6 +1,7 @@
 # admin & main
 __pycache__
-venv/
+admin/venv/
+main/venv/
 .vscode
 admin/.dbdata/
 main/.dbdata/
